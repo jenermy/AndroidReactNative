@@ -1,0 +1,29 @@
+{
+  "name": "com.example.coolanimation",
+  "version": "1.0.0",
+  "description": "android import react-native",
+  "main": "index.android.js",
+  "scripts": {
+    "test": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenermy/ReactNativeDemo.git"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "wanlijun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenermy/ReactNativeDemo/issues"
+  },
+  "homepage": "https://github.com/jenermy/ReactNativeDemo#readme",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-native": "^0.55.3",
+    "react-native-deprecated-custom-components": "^0.1.2",
+    "react-navigation": "^1.5.11",
+    "watchman": "^1.0.0"
+  }
+}
